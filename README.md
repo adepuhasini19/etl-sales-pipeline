@@ -85,10 +85,5 @@ pip install -r requirements.txt
 
 python etl.py
 
-👩‍💻 Author
-
-Hasini Adepu
-B.Tech CSE Student
-Aspiring Software Engineer / Data Engineer
 
 
