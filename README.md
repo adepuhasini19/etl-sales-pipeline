@@ -27,17 +27,18 @@ This project is built using Python and Pandas.
 
 ## 📂 Project Structure
 
+```
 etl_sales_project/
 │
 ├── data/
-│ ├── sales_data.csv
-│ └── cleaned_sales_data.csv
+│   ├── sales_data.csv
+│   └── cleaned_sales_data.csv
 │
 ├── etl.py
 ├── requirements.txt
 └── README.md
+```
 
----
 
 
 ## ⚙️ How It Works
@@ -89,4 +90,5 @@ python etl.py
 Hasini Adepu
 B.Tech CSE Student
 Aspiring Software Engineer / Data Engineer
+
 
