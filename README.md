@@ -65,25 +65,8 @@ data/cleaned_sales_data.csv
 
 1. Clone the repository
 
-```bash
-git clone https://github.com/adepuhasini19/etl-sales-pipeline.git
-cd etl-sales-pipeline
-
-2. Create virtual environment
-
-```bash
-python -m venv venv
-venv\Scripts\activate
 
 
-3. Install dependencies
-
-pip install -r requirements.txt
-
-
-4. Run the ETL pipeline
-
-python etl.py
 
 
 
